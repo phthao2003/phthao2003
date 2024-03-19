@@ -2,7 +2,7 @@
 
 ### **I'm Nguyen Thi Phuong Thao (Ivanka)** 
 
-With a focus on ✨ _e-commerce_ ✨, I possess a blend of business acumen and technological expertise. Having gained valuable experience in startups, I aspire to enhance my technical skills to leverage technology for addressing real-world challenges. Passionate about technology, I am eager for the opportunity to tackle programming challenges and create innovative solutions.
+With a focus on ✨ _e-commerce_ ✨, I possess a blend of business acumen and technological skills. Having gained valuable experience in startups, I aspire to enhance my technical knowledge to leverage technology to address real-world challenges. Passionate about technology, I am eager for the opportunity to tackle programming challenges and create innovative solutions.
 
 I am studying with the intention of exploring the following professions: Frontend Developer, Business Analyst, Project Manager. 
 
